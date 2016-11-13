@@ -1,0 +1,5 @@
+User Function Howdy()
+Local cMsg := "Howdy Hackers"
+conout(cMsg)
+MsgInfo(cMsg)
+Return
